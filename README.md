@@ -11,7 +11,7 @@ Projeto da disciplina Fundamentos de Sistemas Web. Sistema web de comércio de p
 - `README.md` - Documentação do projeto
 
 ## Links
-- Código-fonte no GitHub: [Seu link aqui]
+- Código-fonte no GitHub: [https://github.com/JonathanMendesx/petshop-amigofiel)]
 - Sistema hospedado (GitHub Pages): [Seu link aqui]
 
 ## Funcionalidades
@@ -19,3 +19,4 @@ Projeto da disciplina Fundamentos de Sistemas Web. Sistema web de comércio de p
 - Visualização de produtos com imagem, descrição e valor
 - Visualização de serviços com descrição, valor e opção de tele-busca
 - Informações de contato do petshop
+
